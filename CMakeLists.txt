@@ -16,8 +16,8 @@ add_executable(intermediate_cpp main.cpp
         utils/classes/Length.h
         utils/classes/Array.cpp
         utils/classes/Array.h
-        SmartPointer.cpp
-        SmartPointer.h
+        templates/SmartPointer.cpp
+        templates/SmartPointer.h
         utils/classes/inheritance/Widget.cpp
         utils/classes/inheritance/Widget.h
         utils/classes/inheritance/TextBox.cpp
@@ -36,6 +36,6 @@ add_executable(intermediate_cpp main.cpp
         utils/classes/date_time/DateTime.h
         utils/classes/exceptions/AccountLocked.cpp
         utils/classes/exceptions/AccountLocked.h
-        Pair.cpp
-        Pair.h
+        templates/Pair.cpp
+        templates/Pair.h
 )
